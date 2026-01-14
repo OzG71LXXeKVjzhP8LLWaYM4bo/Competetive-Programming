@@ -1,2 +1,0 @@
-# math-tool
-# Competetive-Programming
